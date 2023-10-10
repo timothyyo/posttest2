@@ -28,4 +28,7 @@
 
 selesai 
 
+Nama:Joshua Timothy
+NIM:2309116070
+KELAS:SI B
 
